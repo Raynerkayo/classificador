@@ -1,0 +1,56 @@
+APP: notepad
+LINK: https://play.google.com/store/apps/details?id=com.tsang.alan.notepad
+1 - RUIM
+2 - BOM
+3 - AMBIGUO
+OBS: A CLASSIFCAÇÃO DESTE, FOI FEITA MANUALMENTE
+1	-	[Bom Muito bom concerteza vai me ajudar muito ]
+1	-	[Maravilhoso Simples leve e fácil de usar recomendo infiinitmente]
+1	-	[Curti É simples, e não tem mistério em mexer]
+1	-	[E muito bom Baixei porque meu celular não tem]
+1	-	[Eu acabei de baixar e então não vou avaliar muito]
+1	-	[Vou utiliza se eu gosta dou mais estrelas]
+1	-	[Vou ve Vou ver quantas letras da se eu nao gostar tiro as estrelas]
+1	-	[Excelente Adorei o app muito funcional e muito bom, recomendo]
+1	-	[adorei ese app quem fez sabe muito queria pelomenos oi de quem crio]
+1	-	[Bom demais Eu adorei e util muito util e muito bom]
+1	-	[Um ótimo app. Simples, eficaz]
+1	-	[Gostei Muito bom mesmo recomendo ]
+1	-	[Muitooo bom Ótimo...muito útil gostei]
+1	-	[Perfeito. Não acho outro melhor que esse, simplesmente deslumbrante]
+1	-	[Se for bom dou mais estrelas instalei agora vou dar 3 estrela]
+1	-	[Muito bom Toda a praticidade que eu procurava]
+1	-	[Muito bom Simples, prático e eficiente]
+1	-	[Amei só que esqueci de da 5 estrela Moto g2, se for bom do 5 estrelas]
+1	-	[Muito Útil, E Super Prático]
+1	-	[Maravilhoso Muito bom eu consigo me organizar]
+2	-	[Gostei Legal que tem a opção de bloqueio recomendo]
+2	-	[Inovador POR FAVOR COLOCA MAIS CORES]
+2	-	[Muito legal Da ate p gravar áudio]
+2	-	[É MT bom Da pra mim guarda minha anotações no mais absoluto sigilo]
+2	-	[Bom mas Podia ter como personalizar Todinho]
+2	-	[Muito bom e também muito fácil da para grava áudio Muito bom]
+2	-	[Excelente Excelente aplicativo , limpo de propagandas. Só precisa de suporte para salvar as notas em nuvem pra ficar perfeito]
+2	-	[Podia ter um tipo de senha de letra mais assim è bom nunca fiquei tão impressionada]
+2	-	[Melhor do mundo Perfeito, mas vc poderia adicionar mais cores por favor]
+2	-	[Divida Pessoal tem senha]
+2	-	[Excelente Muito util e pratico, bem organizado, pode gravar audio tambem]
+2	-	[Excelente Da para organiza as anotações de acordo com data , de A-Z , Z-A ... E é simples, eficiente e eficaz]
+2	-	[Simples e funcional O modo bloqueio funciona bem para dados que não deseja que sejam vistos]
+2	-	[Tive uma dificuldade com o bloqueio, enviei um e-mail para o desenvolvedor e tive a resposta rápida e completa... Parabéns]
+2	-	[Muito bom adorei o sistema de bloqueio!]
+2	-	[Ótimo Graças a esse app agora eu possi me organizar com tarefas escolares e casuais]considerei que organizar tarefas seja requi
+2	-	[Muito bom Bom tbm q vc pode bloquear ele e escrever oq quiser]Requisio bloqueio
+2	-	[ter como personalizar notas]
+2	-	[É muito bom da até para fazer desenhos]desenhar na ferramenta é um requisito
+2	-	[Mt lgl, mas n sei clc senha algm me encina pfv], ter um menu de help
+3	-	[Muito lento Não gostei porque é muito lento, fica travando]pode melhorar o algoritmo p aumentar velocidade
+3	-	[Ótimo, porém quando coloca senha nele e esquece, não tem o que fazer]
+3	-	[Gostei E muito bom para guardar suas anotacoes]
+3	-	[Desistalei o APP e perdi algumas anotações importantes , como faço pra recuperar Tem como]
+3	-	[Tem um problema Eu coloquei a senha e esquece como faço pra recuperar minhas notas]
+3	-	[Perdi a senha Esqueci a senha e não tem como fazer outra, então perdi minhas notas]
+3	-	[Top!! Muito bom adorei o sistema de bloqueio]
+3	-	[Se pudesse daria 10 o melhor bloco de notas que ja usei e ainda com cadeado]
+3	-	[Ótimo, porém quando coloca senha nele e esquece, não tem o que fazer] Seria um requisito a opção de recuperar senha
+3	-	[Bom mas Podia ter como personalizar Todinho] O que seria personalizar todo
